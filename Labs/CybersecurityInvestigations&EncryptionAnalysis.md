@@ -1,8 +1,5 @@
 # Cybersecurity Investigations Encryption Analysis
 
-https://imgur.com/a/LYr29ph
-https://imgur.com/a/hTffV0L
-
 <h2>Overview</h2>
 In this lab, I played the role of a Security Analyst for the Hill Valley Police Department, investigating a series of cybercrimes committed by the Alphabet Bandit. The lab combined cryptography, digital forensics, and threat detection to uncover insider activity and secure sensitive police records.
 Throughout the investigation, I applied both offensive and defensive cybersecurity techniques to identify vulnerabilities, decrypt hidden messages, and gather critical evidence.
