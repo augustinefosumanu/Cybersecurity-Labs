@@ -18,5 +18,3 @@
     - [Networking CTF](https://github.com/augustinefosumanu/Cybersecurity-Labs/blob/main/Labs/NetworkSecurityChallenge.md)
 - Cryptography</br>
   - [Cybersecurity Investigation & Encryption Analysis](https://github.com/augustinefosumanu/Cybersecurity-Labs/blob/main/Labs/CybersecurityInvestigations%26EncryptionAnalysis.md)
-- Network Security </br>
-  - [Network Security Hardening](https://github.com/augustinefosumanu/Cybersecurity-Labs/blob/main/Labs/NetworkSecurityHardening.md)
