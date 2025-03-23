@@ -1,6 +1,7 @@
 # Cybersecurity Investigations Encryption Analysis
 
 https://imgur.com/a/LYr29ph
+https://imgur.com/a/hTffV0L
 
 <h2>Overview</h2>
 In this lab, I played the role of a Security Analyst for the Hill Valley Police Department, investigating a series of cybercrimes committed by the Alphabet Bandit. The lab combined cryptography, digital forensics, and threat detection to uncover insider activity and secure sensitive police records.
@@ -204,123 +205,39 @@ I successfully imported Captain Strickland’s public key into my GPG keyring to
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/ninAdQJ.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
-<h2>  </h2>
-
+<h2> Verifying the Authenticity of Captain Strickland’s Messages </h2>
+I used GPG signature verification to determine which messages were authentic and which were forged or tampered with.
+  - Authentic Messages: Displayed a valid signature from Captain Strickland’s key. <br />
+  - No signature found meant that signature was unrecognized or from another source.<br />
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/iQFYRrW.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
-<h2>  </h2>
-
+<h2> Downloading and Opening the Car Image </h2>
+I successfully downloaded and opened the image of the car on the virtual machine.
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
+<img src="https://i.imgur.com/bSR48rM.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/E5swlOk.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
-<h2>  </h2>
-
+<h2> Checking for Hidden Messages in the Car Image Using Steghide </h2>
+I used Steghide to analyze the downloaded image file for any hidden messages or embedded data.
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-
-<h2>  </h2>
-
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/VO4mEOL.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
